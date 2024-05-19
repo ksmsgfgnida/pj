@@ -1,0 +1,23 @@
+.contentMain h1 {
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5vw;
+  letter-spacing: 0.36em;
+  text-transform: uppercase;
+}
+
+.contentMain a{
+font-style: normal;
+font-weight: 400;
+font-size: 2.2vw;
+letter-spacing: 0.1em;
+color: #FFF;
+}
+
+.contentMain{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
